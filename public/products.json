@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "AMD Ryzen 5 7600",
+    "category": "Процесори",
+    "price": 9000,
+    "image": "images/ryzen-5-7600.svg",
+    "badge": "Хіт",
+    "specs": "6 ядер / 12 потоків, сокет AM5"
+  },
+  {
+    "id": 2,
+    "name": "Intel Core i5-13400F",
+    "category": "Процесори",
+    "price": 7500,
+    "image": "images/core-i5-13400f.svg",
+    "specs": "10 ядер / 16 потоків, сокет LGA1700"
+  },
+  {
+    "id": 3,
+    "name": "AMD Ryzen 7 7800X3D",
+    "category": "Процесори",
+    "price": 17500,
+    "image": "images/ryzen-7-7800x3d.svg",
+    "badge": "Топ",
+    "specs": "8 ядер / 16 потоків, 3D V-Cache, AM5"
+  },
+  {
+    "id": 4,
+    "name": "NVIDIA GeForce RTX 4060",
+    "category": "Відеокарти",
+    "price": 14000,
+    "image": "images/rtx-4060.svg",
+    "badge": "Хіт",
+    "specs": "8 ГБ GDDR6, PCIe 4.0"
+  },
+  {
+    "id": 5,
+    "name": "AMD Radeon RX 7600",
+    "category": "Відеокарти",
+    "price": 11500,
+    "image": "images/rx-7600.svg",
+    "specs": "8 ГБ GDDR6, PCIe 4.0"
+  },
+  {
+    "id": 6,
+    "name": "NVIDIA GeForce RTX 4070 Super",
+    "category": "Відеокарти",
+    "price": 31000,
+    "image": "images/rtx-4070-super.svg",
+    "badge": "Топ",
+    "specs": "12 ГБ GDDR6X, PCIe 4.0"
+  },
+  {
+    "id": 7,
+    "name": "ASUS TUF Gaming B650-PLUS WiFi",
+    "category": "Материнські плати",
+    "price": 9800,
+    "image": "images/asus-tuf-b650-plus.svg",
+    "specs": "Сокет AM5, DDR5, ATX, Wi-Fi 6"
+  },
+  {
+    "id": 8,
+    "name": "Gigabyte B760M DS3H DDR4",
+    "category": "Материнські плати",
+    "price": 6200,
+    "image": "images/gigabyte-b760m-ds3h.svg",
+    "specs": "Сокет LGA1700, DDR4, microATX"
+  },
+  {
+    "id": 9,
+    "name": "Kingston Fury Beast 32 ГБ DDR5",
+    "category": "Оперативна пам’ять",
+    "price": 4300,
+    "image": "images/kingston-fury-beast-32gb.svg",
+    "specs": "Комплект 2×16 ГБ, DDR5-5600"
+  },
+  {
+    "id": 10,
+    "name": "Corsair Vengeance LPX 16 ГБ DDR4",
+    "category": "Оперативна пам’ять",
+    "price": 1800,
+    "image": "images/corsair-vengeance-lpx-16gb.svg",
+    "badge": "Вигідно",
+    "specs": "Комплект 2×8 ГБ, DDR4-3200"
+  },
+  {
+    "id": 11,
+    "name": "Samsung 980 Pro 1 ТБ",
+    "category": "Накопичувачі",
+    "price": 5000,
+    "image": "images/samsung-980-pro-1tb.svg",
+    "specs": "M.2 NVMe, читання до 7000 МБ/с"
+  },
+  {
+    "id": 12,
+    "name": "WD Blue SN580 500 ГБ",
+    "category": "Накопичувачі",
+    "price": 1900,
+    "image": "images/wd-blue-sn580-500gb.svg",
+    "badge": "Вигідно",
+    "specs": "M.2 NVMe, читання до 4000 МБ/с"
+  },
+  {
+    "id": 13,
+    "name": "Seasonic Focus GX-750",
+    "category": "Блоки живлення",
+    "price": 5200,
+    "image": "images/seasonic-focus-gx-750.svg",
+    "specs": "750 Вт, 80 Plus Gold, модульний"
+  },
+  {
+    "id": 14,
+    "name": "Corsair RM650",
+    "category": "Блоки живлення",
+    "price": 3900,
+    "image": "images/corsair-rm650.svg",
+    "specs": "650 Вт, 80 Plus Gold, модульний"
+  }
+]

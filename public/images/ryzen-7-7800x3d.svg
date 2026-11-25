@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="AMD Ryzen 7 7800X3D">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2130"/><stop offset="1" stop-color="#0a0d13"/></linearGradient>
+<radialGradient id="glow" cx="50%" cy="55%" r="60%"><stop offset="0" stop-color="#ff6a3d" stop-opacity=".34"/><stop offset="1" stop-color="#ff6a3d" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f6fa"/><stop offset=".45" stop-color="#b9c0cc"/><stop offset="1" stop-color="#7c8596"/></linearGradient>
+<linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3341"/><stop offset="1" stop-color="#12161d"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#c98f1d"/></linearGradient>
+<filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="9"/></filter>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#000000" flood-opacity=".55"/></filter>
+</defs>
+<rect width="640" height="480" fill="url(#bg)"/>
+<rect width="640" height="480" fill="url(#grid)"/>
+<rect width="640" height="480" fill="url(#glow)"/>
+
+<ellipse cx="320" cy="240" rx="175" ry="175" fill="#ff6a3d" opacity=".16" filter="url(#blur)"/>
+<g filter="url(#shadow)">
+<rect x="185" y="105" width="270" height="270" rx="22" fill="#17503c" stroke="#2c8a63" stroke-width="2"/>
+<circle cx="205" cy="115" r="3" fill="url(#gold)"/><circle cx="205" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="135" r="3" fill="url(#gold)"/><circle cx="445" cy="135" r="3" fill="url(#gold)"/><circle cx="225" cy="115" r="3" fill="url(#gold)"/><circle cx="225" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="155" r="3" fill="url(#gold)"/><circle cx="445" cy="155" r="3" fill="url(#gold)"/><circle cx="245" cy="115" r="3" fill="url(#gold)"/><circle cx="245" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="175" r="3" fill="url(#gold)"/><circle cx="445" cy="175" r="3" fill="url(#gold)"/><circle cx="265" cy="115" r="3" fill="url(#gold)"/><circle cx="265" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="195" r="3" fill="url(#gold)"/><circle cx="445" cy="195" r="3" fill="url(#gold)"/><circle cx="285" cy="115" r="3" fill="url(#gold)"/><circle cx="285" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="215" r="3" fill="url(#gold)"/><circle cx="445" cy="215" r="3" fill="url(#gold)"/><circle cx="305" cy="115" r="3" fill="url(#gold)"/><circle cx="305" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="235" r="3" fill="url(#gold)"/><circle cx="445" cy="235" r="3" fill="url(#gold)"/><circle cx="325" cy="115" r="3" fill="url(#gold)"/><circle cx="325" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="255" r="3" fill="url(#gold)"/><circle cx="445" cy="255" r="3" fill="url(#gold)"/><circle cx="345" cy="115" r="3" fill="url(#gold)"/><circle cx="345" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="275" r="3" fill="url(#gold)"/><circle cx="445" cy="275" r="3" fill="url(#gold)"/><circle cx="365" cy="115" r="3" fill="url(#gold)"/><circle cx="365" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="295" r="3" fill="url(#gold)"/><circle cx="445" cy="295" r="3" fill="url(#gold)"/><circle cx="385" cy="115" r="3" fill="url(#gold)"/><circle cx="385" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="315" r="3" fill="url(#gold)"/><circle cx="445" cy="315" r="3" fill="url(#gold)"/><circle cx="405" cy="115" r="3" fill="url(#gold)"/><circle cx="405" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="335" r="3" fill="url(#gold)"/><circle cx="445" cy="335" r="3" fill="url(#gold)"/><circle cx="425" cy="115" r="3" fill="url(#gold)"/><circle cx="425" cy="365" r="3" fill="url(#gold)"/><circle cx="195" cy="355" r="3" fill="url(#gold)"/><circle cx="445" cy="355" r="3" fill="url(#gold)"/>
+<path d="M190 110h13l-13 13z" fill="url(#gold)"/>
+<rect x="215" y="135" width="210" height="210" rx="20" fill="url(#metal)" stroke="#ffffff" stroke-opacity=".6" stroke-width="2"/>
+<rect x="226" y="146" width="188" height="188" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".45"/>
+</g>
+<text x="320" y="205" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="15" font-weight="700" fill="#1b2230" text-anchor="middle" letter-spacing="4" >AMD RYZEN</text>
+<text x="320" y="258" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="31.1" font-weight="800" fill="#0d1320" text-anchor="middle" letter-spacing="0" >7 7800X3D</text>
+<rect x="270" y="272" width="100" height="4" rx="2" fill="#ff6a3d"/>
+<text x="320" y="312" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="13" font-weight="600" fill="#3b4556" text-anchor="middle" letter-spacing="3" >SOCKET AM5</text>
+
+</svg>
